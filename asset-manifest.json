@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-no-sourcemap/static/css/main.ba17183d.css",
+    "main.js": "/test-no-sourcemap/static/js/main.06571ea4.js",
+    "static/js/27.1901c482.chunk.js": "/test-no-sourcemap/static/js/27.1901c482.chunk.js",
+    "static/media/logo.svg": "/test-no-sourcemap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-no-sourcemap/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ba17183d.css",
+    "static/js/main.06571ea4.js"
+  ]
+}
